@@ -1,0 +1,11 @@
+/Users/danielgerlag/Projects/dotnet-socket-test/SocketTest/SocketTest/bin/Debug/netcoreapp2.0/SocketTest.deps.json
+/Users/danielgerlag/Projects/dotnet-socket-test/SocketTest/SocketTest/bin/Debug/netcoreapp2.0/SocketTest.runtimeconfig.json
+/Users/danielgerlag/Projects/dotnet-socket-test/SocketTest/SocketTest/bin/Debug/netcoreapp2.0/SocketTest.runtimeconfig.dev.json
+/Users/danielgerlag/Projects/dotnet-socket-test/SocketTest/SocketTest/bin/Debug/netcoreapp2.0/SocketTest.dll
+/Users/danielgerlag/Projects/dotnet-socket-test/SocketTest/SocketTest/bin/Debug/netcoreapp2.0/SocketTest.pdb
+/Users/danielgerlag/Projects/dotnet-socket-test/SocketTest/SocketTest/obj/Debug/netcoreapp2.0/SocketTest.csprojResolveAssemblyReference.cache
+/Users/danielgerlag/Projects/dotnet-socket-test/SocketTest/SocketTest/obj/Debug/netcoreapp2.0/SocketTest.csproj.CoreCompileInputs.cache
+/Users/danielgerlag/Projects/dotnet-socket-test/SocketTest/SocketTest/obj/Debug/netcoreapp2.0/SocketTest.AssemblyInfoInputs.cache
+/Users/danielgerlag/Projects/dotnet-socket-test/SocketTest/SocketTest/obj/Debug/netcoreapp2.0/SocketTest.AssemblyInfo.cs
+/Users/danielgerlag/Projects/dotnet-socket-test/SocketTest/SocketTest/obj/Debug/netcoreapp2.0/SocketTest.dll
+/Users/danielgerlag/Projects/dotnet-socket-test/SocketTest/SocketTest/obj/Debug/netcoreapp2.0/SocketTest.pdb
